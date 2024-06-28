@@ -16,3 +16,4 @@ Using the Pandas merge function, we linked two dataframes and created new column
 
 ### Class 05 (05/07/2021)
 Using Sklearn and RandomForest, we seek to use Machine Learning for prediction. However, in this data, we achieved low levels of accuracy with the models used (60% ~ 65%), something that is not acceptable when talking about pharmaceuticals.
+New Try to get (75% over).
